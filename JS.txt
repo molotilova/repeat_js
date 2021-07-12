@@ -1,0 +1,14 @@
+1) На сайте learn.javscript.ru прочитать и повторить:
+	- Раздел Введение (https://learn.javascript.ru/getting-started)
+	- Основы JavaScript (https://learn.javascript.ru/first-steps)
+	- Типы данных до Map/Set (https://learn.javascript.ru/data-types)
+
+2) Практика:
+
+	   
+	-
+
+
+		
+
+		
